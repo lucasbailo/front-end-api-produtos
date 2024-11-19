@@ -6,19 +6,19 @@
 
 ### Create / Add a new Product
 
-<img src="./public/gifs/createItem.gif" alt="Create Item" width="50%">
+<img src="./public/gifs/createItem.gif" alt="Create Item" width="70%">
 
 ## Edit a product 
 
-<img src="./public/gifs/editItem.gif" alt="Edit Item" width="50%">
+<img src="./public/gifs/editItem.gif" alt="Edit Item" width="70%">
 
 ## Delete an item
 
-<img src="./public/gifs/deleteItem.gif" alt="Delete Item" width="50%">
+<img src="./public/gifs/deleteItem.gif" alt="Delete Item" width="70%">
 
 ## Home Page
 
-<img src="./public/images/Crud.png" alt="Crud image" width="50%">
+<img src="./public/images/Crud.png" alt="Crud image" width="70%">
 
 
 ## Some code that I'm proud of
