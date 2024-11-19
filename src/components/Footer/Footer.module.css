@@ -1,0 +1,17 @@
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.text__class {
+    font-size: 12px;
+    margin: 0;
+    margin-bottom: 0;
+}
+
+.link__class {
+    color: black;
+}

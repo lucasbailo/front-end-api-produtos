@@ -1,0 +1,15 @@
+.header__box {
+    display: flex;
+    gap: 1rem;
+    text-align: center;
+    justify-content: center;
+}
+
+.time__box {
+    right: 3rem;
+    position: absolute;
+}
+
+h3, h6 {
+    margin: 0;
+}

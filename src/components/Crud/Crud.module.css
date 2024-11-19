@@ -1,0 +1,10 @@
+.table__line {
+    text-align: center;
+}
+
+.active__box {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: start;
+}
