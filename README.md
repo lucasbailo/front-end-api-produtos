@@ -2,7 +2,7 @@
 
 # API Produtos!
 
-## Test the project yourself: [Teste the project here!!!](https://github.com/lucasbailo/front-end-api-produtos)
+## Test the project yourself: [Test the project here!!!](https://front-end-api-produtos.vercel.app/)
 
 ### Create / Add a new Product
 
