@@ -2,8 +2,6 @@
 
 # API Produtos!
 
-## Test the project yourself: [Test the project here!!!](https://front-end-api-produtos.vercel.app/)
-
 ### Create / Add a new Product
 
 <img src="./public/gifs/createItem.gif" alt="Create Item" width="70%">
